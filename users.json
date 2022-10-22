@@ -10,7 +10,7 @@
     },
 
     "junw3@uw.edu": {
-        "email": "jiuyal2@uw.edu",
+        "email": "junw3@uw.edu",
         "name": "Jun Wang",
         "course_list": ["Math 124", "Math 125", "Math 126", "CSE 142", "CSE 143"],
         "intended_course": ["CSE 311"],
@@ -19,9 +19,9 @@
         }
     },
 
-    "Yigao Li": {
-        "email": "jiuyal2@uw.edu",
-        "name": "Jun Wang",
+    "yigaol2@uw.edu": {
+        "email": "yigaol2@uw.edu",
+        "name": "Yigao Li",
         "course_list": ["Math 124", "Math 125", "Math 126", "CSE 142", "CSE 143"],
         "intended_course": ["CSE 311"],
         "evaluation": {
