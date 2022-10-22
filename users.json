@@ -1,0 +1,31 @@
+{
+    "jiuyal2@uw.edu": {
+        "email": "jiuyal2@uw.edu",
+        "name": "Jiuyang Lyu",
+        "course_list": ["Math 124", "Math 125", "Math 126", "CSE 142", "CSE 143"],
+        "intended_course": ["CSE 311"],
+        "evaluation": {
+            "Math 124": 4.3, "Math 125": 4.6, "Math 126": 4.8, "CSE 142": 5.0, "CSE 143": 4.9
+        }
+    },
+
+    "junw3@uw.edu": {
+        "email": "jiuyal2@uw.edu",
+        "name": "Jun Wang",
+        "course_list": ["Math 124", "Math 125", "Math 126", "CSE 142", "CSE 143"],
+        "intended_course": ["CSE 311"],
+        "evaluation": {
+            "Math 124": 4.8, "Math 125": 4.9, "Math 126": 4.9, "CSE 142": 4.0, "CSE 143": 4.2
+        }
+    },
+
+    "Yigao Li": {
+        "email": "jiuyal2@uw.edu",
+        "name": "Jun Wang",
+        "course_list": ["Math 124", "Math 125", "Math 126", "CSE 142", "CSE 143"],
+        "intended_course": ["CSE 311"],
+        "evaluation": {
+            "Math 124": 3.3, "Math 125": 3.6, "Math 126": 3.4, "CSE 142": 4.0, "CSE 143": 3.7
+        }
+    }
+}
